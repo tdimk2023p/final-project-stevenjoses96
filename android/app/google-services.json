@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "774146404090",
+    "project_id": "belajarfirebase-6834d",
+    "storage_bucket": "belajarfirebase-6834d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774146404090:android:8d92ae51d43d737c9ae343",
+        "android_client_info": {
+          "package_name": "com.example.mymood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774146404090-0oeg3aa6d23c5orolgn47j3gpj4o0kja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_vcsbcFtLvWBhPKQ-yKWjAAvyWy0xu7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774146404090-0oeg3aa6d23c5orolgn47j3gpj4o0kja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "774146404090-320gblqr4jhpd51neo88s7par87u705i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebase2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
